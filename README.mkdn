@@ -1,0 +1,31 @@
+Welcome to Kexec Project
+===================
+
+
+You can get organization web 
+
+	https://github.com/DSMKexec/
+	
+
+----------
+
+
+Introduce
+-------------
+
+This project use Tasssadar(https://github.com/Tasssadar)'s Hard-Boot.
+
+> **Features:**
+
+> - Can download kernel on online and apply remotely !
+> - It is very useful for supervise Android Phone server. 
+
+----------
+
+
+### Work Device
+
+
+Device     | Status
+-------- | ---
+Galaxy Grand Max (SM-G720N0) | WIP(work in progress)
