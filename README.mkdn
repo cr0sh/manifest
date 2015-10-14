@@ -13,7 +13,7 @@ You can get organization web
 Introduce
 -------------
 
-This project use Tasssadar(https://github.com/Tasssadar)'s Hard-Boot.
+This project use Tasssadar(https://github.com/Tasssadar) 's Hard-Boot.
 
 > **Features:**
 
