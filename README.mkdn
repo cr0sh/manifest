@@ -20,6 +20,7 @@ This project use Tasssadar(https://github.com/Tasssadar) 's Hard-Boot.
 
 > - Can download kernel on online and apply remotely !
 > - It is very useful for supervise Android Phone server. 
+> - Work In Progress
 
 ----------
 
