@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="origin" 
-           fetch=".."
-           review="https://github.com/DSMKexec" />
 
-  <default revision="master"  
-           remote="origin" />
+  <remote  name="github"
+           fetch=".." />
+
+  <remote  name="private"
+           fetch="ssh://git@github.com" />
+
+  <default revision="master"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
   <project path="kexec-kernel" name="DSMKexec/kexec-kernel" />
 
 </manifest>
