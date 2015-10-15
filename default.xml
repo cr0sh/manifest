@@ -15,4 +15,10 @@
   <project path="kexec-kernel" name="DSMKexec/kexec-kernel" />
   <project path="kexec-app" name="DSMKexec/kexec-app" />
   <project path="arm-eabi-4.8" name="DSMKexec/arm-eabi-4.8" />
+
+  <project path="script" name="DSMKexec/script >
+   <copyfile src="build.sh" dest="build.sh" />
+  </project>
+
+  <project path="util" name="DSMKexec/util" />
 </manifest>
