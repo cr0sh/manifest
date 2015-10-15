@@ -2,10 +2,11 @@ Welcome to Kexec Project
 ===================
 
 
-You can get organization web 
+You can get repository 
 
-	https://github.com/DSMKexec/
+	repo init -u https://github.com/DSMKexec/manifest.git
 	
+	repo sync 
 
 ----------
 
