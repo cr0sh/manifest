@@ -16,7 +16,7 @@
   <project path="kexec-app" name="DSMKexec/kexec-app" />
   <project path="arm-eabi-4.8" name="DSMKexec/arm-eabi-4.8" />
 
-  <project path="script" name="DSMKexec/script >
+  <project path="script" name="DSMKexec/script" >
    <copyfile src="build.sh" dest="build.sh" />
   </project>
 
